@@ -21,6 +21,8 @@ The application was audited using Lighthouse (Mobile setting) to verify PWA qual
 * **Best Practices:** 96 (✅ Pass)
 * **SEO:** 100 (✅ Pass)
 
+* **Proof of Scores (Image Link):** [https://drive.google.com/file/d/1PNu13QDmYlGuKDbssWe17E4_dab57ApM/view?usp=sharing]
+
 The application comfortably exceeds the required threshold of 90 in all measurable categories.
 
 ### Note on PWA Category Score:
